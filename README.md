@@ -2,7 +2,7 @@
 
 I'm a freelance developer and a master student with a double degree major in [Earth Oriented Space Science and Technology](https://www.tum.de/studium/studienangebot/detail/espace-earth-oriented-space-science-and-technology-master-of-science-msc) from The Technische Universität München and Wuhan University.
 
-🔭 I'm working for the master thesis at LiangDao GmbH, the topic is Semantic Segmentation with Transfer Learning for Mobile Laser Scanning Point Cloud. A new project was created purposely by me to collect related work.
+🔭 I'm working for the master thesis at LiangDao GmbH, the topic is Semantic Segmentation with Transfer Learning for Mobile Laser Scanning Point Cloud. [A new project](https://github.com/PointCloudProcessing) was created purposely by me to collect related work.
 In the past, I was the principal software developer for a food delivery company where I worked full-stack to build their website and App that serves 
 tens of thousands of customers. 
 
